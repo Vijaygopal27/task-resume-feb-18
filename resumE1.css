@@ -1,0 +1,52 @@
+.gbox{
+    width: 100%;
+    height: 270px;
+    margin: auto;
+    background-color: rgb(65, 74, 78); 
+}
+.vert{
+    background-color: #ffffff;
+    position: absolute;
+    top: 200px;
+    width:100%;
+    height: 35px;
+}
+.horz{
+    background-color: rgba(218, 167, 27, 1);
+    position: absolute;
+    width:35%;
+    top:170px;
+    height: 75px;
+    left: 32%;
+    font-size: 5vmax;
+}
+.image{
+    border-radius: 50%;
+    border:  rgba(218, 167, 27, 1) 5px solid;
+    width: 200px;
+    height: 200px;
+    border-style:dotted;
+}
+.add{
+    width: 100%;
+    text-align: center;
+    color:  rgb(65, 74, 78);
+    font-size: 1.9vmax
+} 
+.left{
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+.right{
+    margin-left: 10%;
+}
+.hr{
+width: 100%;
+}
+.head{
+font-size: 1.9vmax;
+}
+.skill{
+font-size: 1.2vmax;
+}
